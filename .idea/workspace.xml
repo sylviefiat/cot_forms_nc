@@ -173,7 +173,7 @@
         <option value="$PROJECT_DIR$/site/views/sc_admins/view.html.php" />
         <option value="$PROJECT_DIR$/administrator/sql/install.mysql.utf8.sql" />
         <option value="$PROJECT_DIR$/cot_forms.xml" />
-        <option value="$PROJECT_DIR$/administrator/sql/updates/mysql/2.0.3.sql" />
+        <option value="$PROJECT_DIR$/administrator/sql/updates/mysql/2.0.5.sql" />
         <option value="$PROJECT_DIR$/administrator/helpers/cot_forms.php" />
         <option value="$PROJECT_DIR$/administrator/language/fr-FR.com_cot_forms.ini" />
         <option value="$PROJECT_DIR$/site/language/en-GB.com_cot_forms.ini" />
@@ -1255,7 +1255,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/sql/updates/mysql/2.0.3.sql">
+    <entry file="file://$PROJECT_DIR$/administrator/sql/updates/mysql/2.0.5.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
